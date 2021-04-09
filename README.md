@@ -10,6 +10,6 @@
   </ul>
 <p><a href="https://www.thanhnt-dev.de/blog">➡️ More blog posts</a></p>
 <h2>Last Tweet</h2>
-<p><a href="https://www.twitter.com/thanhnt-dev"><img src="https://github.com/thanhnt-dev/thanhnt-dev/blob/master/tweet.png" width="600"></a></p>
+<p><a href="https://www.twitter.com/thanhnt_dev"><img src="https://github.com/thanhnt-dev/thanhnt-dev/blob/master/tweet.png" width="600"></a></p>
 <h2>GitHub Stats</h2>
 <p><img src="https://github-readme-stats.vercel.app/api?username=thanhnt-dev&amp;show_icons=true" alt="GitHub Stats"></p>
